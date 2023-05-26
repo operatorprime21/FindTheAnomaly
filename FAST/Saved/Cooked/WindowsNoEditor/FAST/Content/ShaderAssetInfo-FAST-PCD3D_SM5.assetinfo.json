@@ -1,0 +1,553 @@
+{
+	"AssetInfoVersion": 1,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "3676434BDC62FFC0F194E7846C01EA9919113508",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CE21B809E59889F66B6C39810C16E6D2FD37E319",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "925C0CC2C8424631A2DA6FECA250D0FFCC2C0D85",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A3AE248A6F05AA5BB9DDF24C32A2BFFC45368F79",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E2C58873EE5237CF535FE59E114BCAB3435AC135",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8B55463DC6EBA46E7658781E872CD1A10795C143",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "27E36195FF2A8E5C7EFA35B1A3664D37FBA9F873",
+			"Assets": [
+				"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset",
+				"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "931F231FB74937674709FE04BDE3FC7716568737",
+			"Assets": [
+				"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DF359B4AC9B32187F758CF45B384EAE9D1313955",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8360B2E05E6638EAA2E6836157E4086C378527DA",
+			"Assets": [
+				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2A4BE9B1E447C0CC116AB74C5A912C9B2633BF8A",
+			"Assets": [
+				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1882B8A86961777F9222264C52EBE9583D56600D",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4212E1855B4A0C933DE28474B88E21135631201D",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5EB0E9214B12D20C714F8FAC77380E20870BC318",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4FFAF38520D73293207E565918C6B57F7F8E13C9",
+			"Assets": [
+				"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AA183A99EA3140216EA834319D300E20373F5E93",
+			"Assets": [
+				"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A3609E644F6C533B8F9A24D27AB2285E2D39571D",
+			"Assets": [
+				"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E63575823B1855A5BC7AB84D061AC356FBBDAFC1",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "27D4F827A19CAA0A888D888857CDDC3BC8720D5C",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BAE22A1ABB1CBB248257C342C906E5D3F2723A2D",
+			"Assets": [
+				"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D23C75799DEF0E787A73E61A3035F2635A865E7A",
+			"Assets": [
+				"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "32D281FF7B9F2B531B6A63F9B56F1FAE852490FB",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F00F2F9A3CD07DA7457B6B987ED11B739EA06895",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E9F51EE54132DCE7BFFBA8FE653EF3CE494B7150",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AB2C31709D966AFC311EA77E8CF43C110BEBDFC9",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A62102EDF7922A29CF3165F3274B8B16B91B7432",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset",
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EAE9DA31087D494255A0610F70EF6D831D19D10E",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6CDD0D67BE2F0A1AEAFF29AA516B67EADD0D23CB",
+			"Assets": [
+				"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9D722CA47EEA195E2ECCDB9AE1C393D334E460A3",
+			"Assets": [
+				"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7A5E8F202B8EC49330571FE4E974F4C1DC111699",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "56B1B26291F2A93036D693A99C17271296B6D747",
+			"Assets": [
+				"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5E54F8731E4DB06305E2C922AD4FA917B06EF3DF",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AD3B1EE8E520055A0DFECE9D37E93134BDCCB50E",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0042AAEE9D5EF1F678BC41F998BFA45A32FB002E",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "052826F9417262545AE9470F132F0345CDFAAD45",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5D5CE78AF765895B0E693106AA943D2E2F24E78A",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "84E77B16DB6849A87F7F4730D1BD9FAFFE41D989",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "040BB8DCB003F495FD9AD7E67786CBEADDF172C5",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2AD97E1A5041EE4CFAAA4246C4E231AD5BBC8AC8",
+			"Assets": [
+				"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Imposters/M_ImposterTest_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FFB71AD9A5629C5372AA155372B4F81E549F0F6F",
+			"Assets": [
+				"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Flipbooks/M_RenderMotionVectors.uasset",
+				"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Flipbooks/M_RenderMotionVectors_Inst.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "057E28A552BE93B2283500F496A6AB1DC0430875",
+			"Assets": [
+				"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Flipbooks/M_RenderMotionVectors_Applied.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "07E2F1AE297D99055509E6B87FBF7EFC738008B2",
+			"Assets": [
+				"../../../Engine/Content/ArtTools/RenderToTexture/Materials/M_RenderNormalizedDepth_01.uasset",
+				"../../../Engine/Content/ArtTools/RenderToTexture/Materials/M_RenderNormalizedDepth_01_Inst.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "30E9A69D717B0CC2AFE268718979976595FF5724",
+			"Assets": [
+				"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Imposters/M_ImposterTest_01_Inst_SingleAxis.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9B9971C83ECBD2E252C22FD492AD59C87C16739B",
+			"Assets": [
+				"../../../Engine/Content/ArtTools/RenderToTexture/Materials/M_BackgroundCard_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2046144426613741F3A48250BBB486F3652BD8FB",
+			"Assets": [
+				"../../../Engine/Content/ArtTools/RenderToTexture/Materials/M_RadiusDebugTranslucent.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "89CDB15F29051EFEC81A34BD97ABBD370DDE506B",
+			"Assets": [
+				"../../../Engine/Content/ArtTools/RenderToTexture/Materials/M_RenderCustomHeightmap_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "548CE1CFE73F73CB42EA7A045F571CA84A5C6370",
+			"Assets": [
+				"../../../Engine/Content/ArtTools/RenderToTexture/Materials/M_TilingPreviewMat_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "41BD64C8716ACAC7B0593F67E93C3E148B86162D",
+			"Assets": [
+				"../../../Engine/Content/ArtTools/RenderToTexture/Materials/M_UnlitText_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EF23E8BB31970E912EAEFCE713C51E11E4337EC5",
+			"Assets": [
+				"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Flipbooks/M_RenderMotionVectors_Applied_Imposter.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "10F81AAB9DAECDBE614A5610911D7CAA5E21F93A",
+			"Assets": [
+				"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Flipbooks/M_FlipbookPreview_01.uasset",
+				"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Flipbooks/M_FlipbookPreview_01_Inst.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1A76D451F17FA28EBD9A1196473A311AAEB6F317",
+			"Assets": [
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Common/MasterMaterial/Master_Props_Masked_Mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Shared/TheresaRoom/Lamp_Mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Shared/TheresaRoom/Lamp/Lamp_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "12BCB2FC3B905BE790A8C9978F217574DA58FB64",
+			"Assets": [
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Common/MasterMaterial/Master_Props_Mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Shared/GenericPropsInterior/PictureFrame/PictureFrameWood_a_Mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Shared/TheresaRoom/Armchair_a_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DC9F2EF458FE3A17EAEEAA8840110C55554AD329",
+			"Assets": [
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Common/MasterMaterial/Master_WorldMaterial_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3FDC7ABCAEFA1A17FEE243376805BCDDC2FA1409",
+			"Assets": [
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Common/Materials/Metal/WM_MetalBasic_a_mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Common/Materials/Plaster/WM_PlasterWall_a_Green_mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Common/Materials/Plaster/WM_PlasterWall_a_mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Common/Materials/Metal/WM_MetalBasicDark_a_mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Common/Materials/Metal/WM_MetalWallPaint_a_mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Common/Materials/Metal/WM_BrassBasic_a_mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Common/Materials/Metal/WM_MetalBasicLight_a_mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Common/Materials/Plastic/WM_Plastic_Cream_a_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AF5F3A22717AF25F7CF7104C513C53578A4CA939",
+			"Assets": [
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Common/MasterMaterial/Master_Glass_Mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Shared/GenericPropsInterior/GasLampGlass_a_Mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Materials/PitcherGlass_a_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "82F46E9D164F334E394E1734264598E8F12F3192",
+			"Assets": [
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Common/Materials/Glass/WM_GlassDirty_a_Mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Materials/LivingRoomWindow_c_mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Materials/LivingRoomWindow_b_mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Materials/LivingRoomWindow_a_mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Shared/TheresaRoom/Window/WindowFrameGlass_a_mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7EE310C55B5F69898718DB8E0580CEC407350A6B",
+			"Assets": [
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Shared/GenericPropsInterior/PackingTapeGun_a_Mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Materials/RollingLadder_a_mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Materials/Oven_a_Mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Materials/utensil_mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Materials/CoffeeTable_a_mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Materials/BarbaraMusicBox_a_Mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Materials/Stool_a_mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Materials/SalmonCans_Mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Materials/Barricade_mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Shared/TheresaRoom/Wheelchair_a_Mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Shared/GenericPropsInterior/Door/Door_a_Mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Shared/GenericPropsInterior/BookTaxidermy_a_Mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Shared/GenericPropsExterior/WalterMemorial/WalterMemorial_a_Mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Shared/Floor4/Floor4CommonArea/SalmonCan/SalmonCan_a_Mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Materials/StoveHood_a_Mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Materials/Stove_a_Mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Materials/pan_a_mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Shared/Finale/Environments/Study/StudyWalls/StudyTrim_a_Mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Shared/Finale/Environments/Study/StudyWalls/StudyBookcase_a_Mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Materials/Fiddle_a_Mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Materials/DoorWalter_a_Mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Materials/DoorTwin_a_Mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Materials/DoorTheresa_a_Mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Materials/DoorMolly_a_Mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Materials/DoorBarbara_a_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "044C23220D538117AE97D1DB74419F0DED8B1BC4",
+			"Assets": [
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Common/MasterMaterial/Master_VertHeightLerp_Mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Shared/GenericPropsInterior/PackingPeanuts_a_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2B78F2CF2AB0784D180E76B621F2C055070131C1",
+			"Assets": [
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Shared/GenericPropsInterior/PackingPeanuts_a_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "69EDECCFF7506780C5EC5EE4195632FAB063BBB0",
+			"Assets": [
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Common/Materials/Glass/WM_GlassClean_a.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D4D6F6CDEB3187DF904D7302136708DED50B498E",
+			"Assets": [
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Common/MasterMaterial/MASTER_BaseColor_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C0B1747421DF4389736BF4F2C757905FE6BECF08",
+			"Assets": [
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Common/MasterMaterial/Master_Props_SubSurface_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BD200AFF60A69BA6785D821A0DC13BB567A1E84F",
+			"Assets": [
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Shared/Hunger/MonsterWater_a_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EBA8D2C7E957A8D817E29D49021FC1A969B064FF",
+			"Assets": [
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Common/Materials/Metal/Copper_a_Mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Shared/GenericPropsInterior/ChairCushion_a_Mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Common/Materials/Metal/Brass_a_Mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Common/Materials/Cloth/Linen2_a_Mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Effects/Materials/FlatSurfaces/ceiling_a_Mat_Inst.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Materials/Cup_b_Mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Materials/bowl_c_mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Materials/bowl_b_mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Common/Materials/Cloth/Linen3_a_Mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Shared/GenericPropsInterior/FoldableTablePlastic_a_Mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Materials/FloorBottle_d_Mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Materials/FloorBottle_b_Mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Materials/FloorBottle_a_Mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Materials/FloorBottle_c_Mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Materials/Cup_c_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "947C649035D5F90315566377235DAB9B3F19B798",
+			"Assets": [
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Common/MasterMaterial/Master_Props_MaskedDither_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "210CBBA699BECA69A3F0DF1C380416F6412823D4",
+			"Assets": [
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Common/Materials/Cloth/DoilyTrim2_a_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "729B08C8345C61723A9B8B8F3A9F4BCFB6F33EDD",
+			"Assets": [
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Common/MasterMaterial/Master_Metal_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A9C6BD27C6BE71D527CFF1766707AE91C3744494",
+			"Assets": [
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Shared/TheresaRoom/WritingDeskKnob_a_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E7BFA8D6988805DD21341CB6BD26C0FAFCA30AAB",
+			"Assets": [
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Common/Materials/Glass/TestGlass/Materials/Free/Glass/M_Glass_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "15EEABCBA2BE93CF1CC9566CEB49EBAEA04C3FF2",
+			"Assets": [
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Common/MasterMaterial/Master_Props_Emmisive_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "72FE7278FD85CD9464977A6D7135A13A1699A6A5",
+			"Assets": [
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Shared/GenericPropsInterior/Umbrella_a_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7B4835AE4FAA31EBD9E7FDFDC7B6C28907816DDD",
+			"Assets": [
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Shared/Bathtub/Characters/ShowerCurtain/ShowerCurtain_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B4A6792935202DAA6925C0AC5CBCD5FA5F323E45",
+			"Assets": [
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Common/MasterMaterial/Master_BookVariety_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "110E1541F56E917F83FED27451539DDA73D2EEC1",
+			"Assets": [
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Shared/GenericPropsInterior/Book/Bookstacks/BookstackEncyclopedia_a_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B433FEC512703CC6E7950ACEB987570EE48237F0",
+			"Assets": [
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Materials/ChopsticksPacket_a_Mat.uasset",
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Common/Materials/Cloth/DoilyTrim_a_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "122DFA8AB3C77F3F14DAA2E7DA426FE5EE976A23",
+			"Assets": [
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Effects/Materials/FlatSurfaces/glass_a_foggy_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B4EB81C30E4827B3EE8B3E6AEE74361E1C32B5E6",
+			"Assets": [
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Shared/GenericPropsInterior/Book/Bookstacks/NotebookRings_a_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D0691CDEEC02C0F5B81489251B235125C942AFB1",
+			"Assets": [
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/ArchVisPolishPack02/Materials/M_AVP2_CandleWax.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CEA5B15D3D47793592C618400073D8BFAE884D86",
+			"Assets": [
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/ArchVisPolishPack02/Materials/M_AVP2_FlameLick.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "14CE13A45B418615F4C91002F447022392497C95",
+			"Assets": [
+				"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0EEB413215C79BD1449CE2A427160F19F0010624",
+			"Assets": [
+				"../../../../../../Users/ADMIN/Desktop/Unreal Projects/FAST/Content/EF_FirstFloor/Materials/RockingChairFabric_a_Mat.uasset"
+			]
+		}
+	]
+}
